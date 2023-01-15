@@ -53,6 +53,7 @@
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -92,6 +93,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\bg.jpeg" />
+    <Resource Include="Images\coin.gif" />
+    <Resource Include="Images\door-closed.gif" />
+    <Resource Include="Images\door-open.jpg" />
+    <Resource Include="Images\key.jpg" />
+    <Resource Include="Images\platform.jpg" />
+    <Resource Include="Images\player.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

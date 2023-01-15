@@ -5,8 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ScrollingPlatformGame"
         mc:Ignorable="d"
-        Title="Scrolling Platform v1.0" Height="450" Width="800">
-    <Grid>
+        Title="Scrolling Platform v1.0" Height="500" Width="1000" FocusManager.FocusedElement="{Binding ElementName=MapCanvas}">
+    <Canvas Name="MapCanvas" Focusable="True" KeyDown="MapCanvas_KeyDown" KeyUp="MapCanvas_KeyUp">
+        <!-- BG -->
+        <Rectangle Canvas.Top="0" Canvas.Left="0" Width="1000" Height="496" Name="bg1" Fill="LightSkyBlue"/>
+        <Rectangle Canvas.Top="0" Canvas.Left="1000" Width="1000" Height="496" Name="bg2" Fill="LightBlue"/>
         
-    </Grid>
+        <!-- Player -->
+        <Rectangle Name="player" Width="50" Height="60" Fill="Pink" Canvas.Top="100" Canvas.Left="50"/>
+        
+        <!-- Platforms -->
+        <Rectangle Width="127" Height="62" Fill="Black" Canvas.Top="445" Canvas.Left="0"/>
+        <Rectangle Width="127" Height="62" Fill="Black" Canvas.Top="445" Canvas.Left="127"/>
+        <Rectangle Width="127" Height="62" Fill="Black" Canvas.Top="358" Canvas.Left="337"/>
+        <Rectangle Width="127" Height="62" Fill="Black" Canvas.Top="271" Canvas.Left="532"/>
+        
+        <!-- Key -->
+        <Rectangle Width="40" Height="20" Fill="Yellow" Canvas.Top="302" Canvas.Left="360"/>
+        
+        <!-- Door -->
+        <Rectangle Width="60" Height="90" Fill="Brown" Canvas.Top="180" Canvas.Left="566"/>
+        
+        <!-- Coins -->
+        <Rectangle Width="30" Height="30" Fill="Orange" Canvas.Top="390" Canvas.Left="190"/>
+        <Rectangle Width="30" Height="30" Fill="Orange" Canvas.Top="330" Canvas.Left="190"/>
+    </Canvas>
 </Window>
