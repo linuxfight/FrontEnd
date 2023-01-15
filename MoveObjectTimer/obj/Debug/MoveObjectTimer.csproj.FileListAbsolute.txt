@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\bin\Debug\MoveObjectTimer.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\bin\Debug\MoveObjectTimer.exe
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\bin\Debug\MoveObjectTimer.pdb
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.exe
+C:\Users\kiko1\source\repos\FrontEnd\MoveObjectTimer\obj\Debug\MoveObjectTimer.pdb

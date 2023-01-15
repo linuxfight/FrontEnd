@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\bin\Debug\CalcAppAsyncMultithread.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\bin\Debug\CalcAppAsyncMultithread.exe
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\bin\Debug\CalcAppAsyncMultithread.pdb
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.exe
+C:\Users\kiko1\source\repos\FrontEnd\CalcAppAsyncMultithread\obj\Debug\CalcAppAsyncMultithread.pdb

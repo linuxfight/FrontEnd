@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\bin\Debug\FlyApp.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\bin\Debug\FlyApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\bin\Debug\FlyApp.pdb
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\FlyApp\obj\Debug\FlyApp.pdb

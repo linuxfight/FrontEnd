@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\bin\Debug\PlatformerApp.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\bin\Debug\PlatformerApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\bin\Debug\PlatformerApp.pdb
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\PlatformerApp\obj\Debug\PlatformerApp.pdb

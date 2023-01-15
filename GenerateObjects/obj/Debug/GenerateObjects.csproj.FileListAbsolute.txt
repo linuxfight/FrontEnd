@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\bin\Debug\GenerateObjects.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\bin\Debug\GenerateObjects.exe
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\bin\Debug\GenerateObjects.pdb
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.exe
+C:\Users\kiko1\source\repos\FrontEnd\GenerateObjects\obj\Debug\GenerateObjects.pdb

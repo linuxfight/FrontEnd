@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\kiko1\source\repos\FrontEnd\MultiThreading\obj\Debug\MultiThreading.pdb

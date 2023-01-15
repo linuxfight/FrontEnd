@@ -1,0 +1,16 @@
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\bin\Debug\RenderingApp.exe.config
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\bin\Debug\RenderingApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\bin\Debug\RenderingApp.pdb
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\MainWindow.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\App.g.cs
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.cache
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.lref
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\MainWindow.baml
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.g.resources
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.Properties.Resources.resources
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.csproj.GenerateResource.cache
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.exe
+C:\Users\kiko1\source\repos\FrontEnd\RenderingApp\obj\Debug\RenderingApp.pdb
